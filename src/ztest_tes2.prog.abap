@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_TES2.
 
-WRITE:'Project3 - Change1'.
+WRITE:'Projec1 - Change1'.
